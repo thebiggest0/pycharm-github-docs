@@ -1,4 +1,12 @@
 site_name: COMM Docs
+nav:
+  - Home: "index.md"
+  - Pycharm Installation: "pycharmInstallation.md"
+  - Github Setup: "githubSetup.md"
+  - Connect Pycharm to Github: "connectPycharmToGithub.md"
+  - Troubleshooting: "troubleshooting.md"
+  - Glossary: "glossary.md"
+
 theme: 
   name: material
   features:
@@ -38,22 +46,22 @@ theme:
 #     - icon: fontawesome/brands/linkedin
 #       link: https://www.linkedin.com/in/willettjames/
 
-# markdown_extensions:
-#   - pymdownx.highlight:
-#       anchor_linenums: true
-#   - pymdownx.inlinehilite
-#   - pymdownx.snippets
-#   - admonition
-#   - pymdownx.arithmatex:
-#       generic: true
-#   - footnotes
-#   - pymdownx.details
-#   - pymdownx.superfences
-#   - pymdownx.mark
-#   - attr_list
-#   - pymdownx.emoji:
-#       emoji_index: !!python/name:materialx.emoji.twemoji
-#       emoji_generator: !!python/name:materialx.emoji.to_svg
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
-# copyright: |
-#   &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
+copyright: |
+  &copy; 2024 Yifei & Cai <a href="https://github.com/thebiggest0/pycharm-github-docs"  target="_blank" rel="noopener"></a>
