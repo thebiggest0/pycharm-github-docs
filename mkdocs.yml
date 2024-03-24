@@ -1,19 +1,24 @@
 site_name: COMM Docs
 nav:
-  - Home: "index.md"
-  - Pycharm Installation: "pycharmInstallation.md"
-  - Github Setup: "githubSetup.md"
-  - Connect Pycharm to Github: "connectPycharmToGithub.md"
-  - Troubleshooting: "troubleshooting.md"
-  - Glossary: "glossary.md"
+  - Home: "pages/index.md"
+  - Pycharm Installation: "pages/pycharmInstallation.md"
+  - Github Setup: "pages/githubSetup.md"
+  - Connect Pycharm to Github: "pages/connectPycharmToGithub.md"
+  - Troubleshooting: "pages/troubleshooting.md"
+  - Glossary: "pages/glossary.md"
+  - Test: "pages/template.md"
 
 theme: 
   name: material
   features:
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.sections
-    - toc.integrate
+    # - toc.integrate
+    - navigation.instant.preview
     - navigation.top
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -33,6 +38,27 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
+  icon:
+    annotation: material/plus-circle
+    # annotation1: material/heart-circle
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
 
 # plugins:
 #   - social
@@ -47,6 +73,9 @@ theme:
 #       link: https://www.linkedin.com/in/willettjames/
 
 markdown_extensions:
+  - toc:
+      toc_depth: 3
+      title: "TABLE OF CONTENT"
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -62,6 +91,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  
 
 copyright: |
   &copy; 2024 Yifei & Cai <a href="https://github.com/thebiggest0/pycharm-github-docs"  target="_blank" rel="noopener"></a>

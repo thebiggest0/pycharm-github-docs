@@ -1,0 +1,9 @@
+.md-nav__title {
+    overflow: unset;
+    margin-bottom: 15px !important;
+}
+
+h2 {
+    color: red;
+    /* margin-bottom: 105px !important; */
+}

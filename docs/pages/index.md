@@ -1,8 +1,11 @@
-# Homepage
+# Introduction
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test Random test 
 
-## Code Annotation Examples
+Random test Random test Random test Random test Random test Random test Random test Random test Random
+
+## Intended Users
 
 Some `code` goes here.
 
@@ -11,7 +14,7 @@ Some `code` goes here.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Pre-requisite Knowledge
 
     mkdocs.yml    # The configuration file.
     docs/
@@ -19,7 +22,7 @@ Some `code` goes here.
         ...       # Other markdown pages, images and other files.
 
 
-## Plain codeblock
+## Software Requirements
 
 A plain codeblock:
 ```
@@ -28,8 +31,10 @@ def my function()
 // some comment
 ```
 
-## code for a specific language
+## Pages Overview
 Some more code with the `py` at the start:
+
+## Note and Warning Messages
 
 ```py
 import pyautogui as py
@@ -50,3 +55,8 @@ def test1()
 def test2()
 def test3()
 ```
+
+!!! Danger
+!!! Warning
+!!! Info
+!!! Success
