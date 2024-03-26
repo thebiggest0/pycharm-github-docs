@@ -1,8 +1,8 @@
 site_name: COMM Docs
 nav:
   - Home: "index.md"
-  - Pycharm Installation: "pycharmInstallation.md"
   - Github Setup: "githubSetup.md"
+  - Pycharm Installation: "pycharmInstallation.md"
   - Connect Pycharm to Github: "connectPycharmToGithub.md"
   - Troubleshooting: "troubleshooting.md"
   - Glossary: "glossary.md"
