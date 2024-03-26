@@ -1,12 +1,11 @@
 site_name: COMM Docs
 nav:
-  - Home: "pages/index.md"
-  - Pycharm Installation: "pages/pycharmInstallation.md"
-  - Github Setup: "pages/githubSetup.md"
-  - Connect Pycharm to Github: "pages/connectPycharmToGithub.md"
-  - Troubleshooting: "pages/troubleshooting.md"
-  - Glossary: "pages/glossary.md"
-  - Test: "pages/template.md"
+  - Home: "index.md"
+  - Github Setup: "githubSetup.md"
+  - Pycharm Installation: "pycharmInstallation.md"
+  - Connect Pycharm to Github: "connectPycharmToGithub.md"
+  - Troubleshooting: "troubleshooting.md"
+  - Glossary: "glossary.md"
 
 theme: 
   name: material
