@@ -45,4 +45,4 @@ By the end of this section, you will have successfully learned the following:
 
 Great job! 😊 You can You can now enjoy access to JetBrains products for your learning and development projects. Go ahead and click on the link below to move on to the next step:
 
-**[Connect PyCharm to GitHub](pycharmInstallation.md)**
+**[Connect PyCharm to GitHub](connectPycharmToGithub.md)**
