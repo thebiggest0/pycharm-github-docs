@@ -43,3 +43,7 @@ Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
 
 !!! warning
 
+!!! failure
+
+![Alt text](/docs/assets/gh1.png)
+
