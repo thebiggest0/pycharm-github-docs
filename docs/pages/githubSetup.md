@@ -19,7 +19,7 @@ This section will guide you through creating a GitHub account, which is necessar
 
     ![Enter Info](assets/gh2.png)
 
-    !!! info "Notes"
+    !!! info "Password"
         - Use your BCIT email for a free student plan.
         - Remember your password.
         
@@ -63,9 +63,10 @@ This section will guide you through creating a GitHub account, which is necessar
 
 By the end of this section, you will have successfully learned the following:
 
+:material-check: How to create a new GitHub account
+
 :material-check: How to apply for GitHub student benefits
 
-:material-check: How to create a new GitHub account
 
 Great job! 😊 You can go ahead and click on the link below to move on to the next step:
 
