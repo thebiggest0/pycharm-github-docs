@@ -33,22 +33,22 @@ This section will guide you through creating a GitHub account, which is necessar
     - You will be redirected back to the GitHub website.
 
 6. **Apply for Student Benefits:**
-    - Scroll down to the page.
-    - Click "Apply for your GitHub student benefits" button.
+    - Scroll down the page.
+    - Click the "Apply for your GitHub student benefits" button.
     - You will be redirected to another page.
 
     ![Student Benefits](assets/gh4.png)
 
-7. **Sign up for Student Developer Pack**
-- Click "Sign up for Student Developer Pack" button.
-- Choose your academic status as "Student".
+7. **Sign up for Student Developer Pack:**
+    - Click the "Sign up for Student Developer Pack" button.
+    - Choose your academic status as "Student".
 
     ![Student Pack](assets/gh5.png)
 
-8. **Upload Proof of Your Academic Status**
-- Take a picture of your BCIT student card with your webcam.
-- Click "Process my application" button.
-- This process might take a couple of minutes.
+8. **Upload Proof of Your Academic Status:**
+    - Take a picture of your BCIT student card with your webcam.
+    - Click the "Process my application" button.
+    - This process might take a couple of minutes.
 
     ![Academic Status](assets/gh6.png)
 
@@ -60,13 +60,12 @@ This section will guide you through creating a GitHub account, which is necessar
     - Now you have a new GitHub account
 
 ## Conclusion
+
 By the end of this section, you will have successfully learned the following:
 
-✅How to apply for GitHub student benefits
+- ✅ How to apply for GitHub student benefits
+- ✅ How to create a new GitHub account
 
-✅How to create a new GitHub account
-
-
-Great job😊. You can go ahead and click on the link below to move on to the next step:
+Great job! 😊 You can go ahead and click on the link below to move on to the next step:
 
 **[Install PyCharm](pycharmInstallation.md)**
