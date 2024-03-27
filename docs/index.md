@@ -37,9 +37,9 @@ This guide assumes python is already installed in the file path
 
 ## Procedure Overview
 
-- **[Github Setup](/pages/githubSetup)**
-- **[PyCharm Installation](/pages/pycharmInstallation)**
-- **[Connect PyCharm to Github](/pages/connectPycharmToGithub)**
+- **[Github Setup](githubSetup)**
+- **[PyCharm Installation](pycharmInstallation)**
+- **[Connect PyCharm to Github](connectPycharmToGithub)**
 
 
 ## Notes and Warning Messages
