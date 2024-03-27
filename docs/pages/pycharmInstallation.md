@@ -40,8 +40,9 @@ This section will guide you through the process of creating a JetBrains account 
 
 By the end of this section, you will have successfully learned the following:
 
-- ✅ How to apply for a free student or teacher license
-- ✅ How to create a new JetBrains account
+:material-check: How to apply for a free student or teacher license
+
+:material-check: How to create a new JetBrains account
 
 Great job! 😊 You can You can now enjoy access to JetBrains products for your learning and development projects. Go ahead and click on the link below to move on to the next step:
 
