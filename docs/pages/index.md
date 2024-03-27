@@ -1,6 +1,6 @@
 # Introduction
 
-why new cst student need to know how to do this, importance/ purpose and why need to do this 
+Why new cst student need to know how to do this, importance/ purpose and why need to do this 
 For more information see website for details.
 
 Welcome term 1 CST students this document will guide you through setting up your PyCharm and Github. 
@@ -16,65 +16,35 @@ This documentation is for MAC users only.
 First term CST students 
 Beginner developers and anyone looking into software development.
 
+## Pre-requisite Knowledge requirements
 
-Some `code` goes here.
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Pre-requisite Knowledge
-
-No pre-requisite knowledge needed.
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+None: pre-requisite knowledge needed.
 
 
-## Software Requirements
-
+## Hardware Requirements
 | **Requirement** | **Minimum** | **Recommended** |
 | :-| :-| :-|
-|RAM | Python file|
-|CPU| test2|
-||:material-check-all:|
-|:material-close:|close|
+|RAM | 4 GB free RAM| 8 GB free RAM|
+|CPU| Any CPU| Multi-Core CPU|
+|Disk Space| 3.5 GB| SSD Drive|
+|Operating System| 64 bit macOS 12.0 or later| Latest 64 bit macOS|
+
+## Software Requirements
+Git is installed already in CMD
+
+This guide assumes python is already installed in the file path
 
 
-A plain codeblock:
-```
-Some code here
-def my function()
-// some comment
-```
+## Procedure Overview
 
-## Pages Overview
-Some more code with the `py` at the start:
+- **[Github Setup](/pages/githubSetup)**
+- **[PyCharm Installation](/pages/pycharmInstallation)**
+- **[Connect PyCharm to Github](/pages/connectPycharmToGithub)**
 
-## Note and Warning Messages
 
-```py
-import pyautogui as py
-def test()
-    pass
-```
+## Notes and Warning Messages
 
-```py title="test"
-def test2()
-    pass
-```
-
-```py linenums="1"
-```
-
-```py hl_lines="1 3"
-def test1()
-def test2()
-def test3()
-```
+In this document there will be message blocks conveying **important** information.
 
 !!! Danger
     Describes steps that could potentially lead to an error or crash the application.
