@@ -44,7 +44,8 @@ This section will guide you through the process of connecting PyCharm to your Gi
 
 By the end of this section, you will have successfully learned the following:
 
-- ✅ How to connect PyCharm to your GitHub account
-- ✅ How to clone repository from GitHub to your PyCharm
+:material-check: How to connect PyCharm to your GitHub account
 
-You can now clone repositories, push changes, and interact with GitHub repositories with ease. Great job! 😊
+:material-check: How to clone repository from GitHub to your PyCharm
+
+Great job! 😊 You can now clone repositories, push changes, and interact with GitHub repositories with ease.
