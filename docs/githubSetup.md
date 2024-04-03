@@ -2,7 +2,7 @@
 
 This section will guide you through creating a GitHub account, which is necessary for connecting to PyCharm.
 
-## Steps for creating a GitHub account
+## Steps for Creating a GitHub account
 
 1. Open your web browser and navigate to the GitHub website: [https://github.com/](https://github.com/).
     
