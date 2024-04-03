@@ -1,9 +1,9 @@
 site_name: PyCharm User Guide
 nav:
-  - Home: "index.md"
+  - Introduction: "index.md"
   - GitHub Setup: "githubSetup.md"
   - Pycharm Installation: "pycharmInstallation.md"
-  - Connect Pycharm to GitHub: "connectPycharmToGithub.md"
+  - Pycharm to GitHub Connection: "connectPycharmToGithub.md"
   - Troubleshooting: "troubleshooting.md"
   - Glossary: "glossary.md"
 
