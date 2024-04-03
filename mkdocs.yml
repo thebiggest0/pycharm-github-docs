@@ -30,13 +30,13 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: teal
-      accent: purple 
+      accent: deep orange 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: deep orange
+      accent: light-blue
   icon:
     annotation: material/plus-circle
     # annotation1: material/heart-circle

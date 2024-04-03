@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome term 1 CST students this document will guide you through setting up your PyCharm and Github. 
+Welcome, term 1 CST students! This document will guide you through setting up your PyCharm and Github. 
 
 **PyCharm**: An Integrated Development Environment (IDE) for Python (your first programming language learned in CST) used in your COMP 1510 Procedural Programming course. It enhances developer productivity through automation, offering intelligent code assistance and tools for error checking, project navigation, and refactoring​​. For more details see PyCharm's [official page](https://www.jetbrains.com/pycharm/learn/).
 
@@ -13,7 +13,7 @@ This documentation is for the following users:
 - First term CST students using Mac operating system.
 - Beginner developers and anyone looking into software development.
 
-## Pre-requisite Knowledge requirements
+## Prerequisite Knowledge
 
 This document assumes the following:
 
@@ -43,15 +43,18 @@ This document assumes the following softwares are installed:
 - [Connect PyCharm to Github](connectPycharmToGithub)
 
 
-## Notes and Warning Messages
+## Documentation Conventions
 
-In this document there will be message blocks conveying **important** information.
+- Bold: Text in bold Signifies a clickable button.
 
+- Quotations: Text enclosed in quotations signifies an embedded link.
+
+- Admonitions: Color coded message containers for various types of information.
 !!! Danger
-    Describes steps that could potentially lead to an error or crash the application.
+    Highlights critical information that could potentially lead to security breaches if not followed.
 !!! Warning
-    Highlights critical information to be understood before moving forward.
+    Outlines information to be understood before moving forward.
 !!! Info
     Provides extra details or advice for ease of understanding or improvement.
 !!! Success
-    Shows the criteria or appearance of a successful outcome.
+    Shows a successful outcome.
