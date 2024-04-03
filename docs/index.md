@@ -11,15 +11,18 @@ Welcome term 1 CST students this document will guide you through setting up your
 
 ## Intended Users
 
-This documentation is for MAC users only.
+This documentation is for the following users:
 
-First term CST students 
-Beginner developers and anyone looking into software development.
+- First term CST students using Mac operating system.
+- Beginner developers and anyone looking into software development.
 
 ## Pre-requisite Knowledge requirements
 
-None: pre-requisite knowledge needed.
+This document assumes the following:
 
+- Basic Computing Skills: User should be comfortable with general computer operations such as downloading, installing and managing applications.
+- Internet Navigation: User should have the ability to use a web browser to perform navigation, search, sign up and other operations.
+- Email Management: User should know how to access and manage an email account.
 
 ## Hardware Requirements
 | **Requirement** | **Minimum** | **Recommended** |
@@ -30,10 +33,11 @@ None: pre-requisite knowledge needed.
 |Operating System| 64 bit macOS 12.0 or later| Latest 64 bit macOS|
 
 ## Software Requirements
-Git is installed already in CMD
 
-This guide assumes python is already installed in the file path
+This document assumes the following softwares are installed:
 
+- Git: The Git version control system should be installed and accessible via Terminal.
+- Python: The Python programming language, either Python2 or Python3 should be installed with the correct path set up in your system's environment.
 
 ## Procedure Overview
 
