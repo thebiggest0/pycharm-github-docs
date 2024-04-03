@@ -4,48 +4,44 @@ This section will guide you through the process of connecting PyCharm to your Gi
 
 ## Steps for Connecting GitHub with PyCharm
 
-1. **Generate GitHub Personal Access Token:**
-    - Open your GitHub account settings in a web browser.
-    - Navigate to "Developer settings" > "Personal access tokens".
-    - Click on "Generate new token" and provide a token description.
-    - Click on "Generate token" and copy the generated token.
+1. Go to github.com and log in to your account, then navigate to Personal Access Tokens by clicking on your profile picture in the top-right corner, selecting **Settings** from the dropdown menu, navigating to **Developer Settings** in the left sidebar, click on **Personal access tokens**, and then click **Tokens(classic)**.
+
+    ![Token Setting](assets/connect1.png)
+
+2. Click on the **Generate new token** button, choose the scopes or permissions needed for the token, and then click on **Generate token**.
 
     !!! warning "GitHub Token"
         Save your token now because it will be shown only once.
 
-2. **Open PyCharm:**
-    - Launch PyCharm on your computer.
+    !!! Danger "GitHub Token"
+        Always store your GitHub token securely to prevent unauthorized access to your repositories.
 
-3. **Access PyCharm Preferences:**
-    - Go to "Customize" > "All Settings" from the Welcome window.
+3. Launch PyCharm on your computer.
 
-4. **Search for GitHub Preferences:**
-    - In the Preferences window, locate the search bar in the upper left-hand corner.
-    - Enter "GitHub" into the search bar.
+4. Click the **File** menu, then click **Settings**.
 
-5. **Add GitHub Account Information:**
-    - Provide your GitHub token in the GitHub settings within PyCharm.
+5. In the Preferences window, locate the search bar in the upper left-hand corner, enter GitHub into the search bar.
 
-6. **Verify Connection:**
-     - After adding your GitHub account information, check for your GitHub avatar in the list of accounts within PyCharm.
-     - This confirms that PyCharm is connected to your GitHub account.
+    ![PyCharmSetting](assets/connect2.png)
 
-7. **Create a new Project in PyCharm:**
-    - Click the "File" menu.
-    - Choose "New Project" from the drop-down menu.
+6. Provide your GitHub token in the GitHub settings within PyCharm.
 
-8. **Clone Repository from GitHub:**
-    - Click the "Get from VCS" button in the top right corner.
-    - Select "Git" > "Clone Repository" and enter the repository URL.
+    ![GitHub Token](assets/connect3.png)
 
-    ![Get from VCS](assets/connect1.png)
+7. Check for your GitHub avatar in the list of accounts within PyCharm, this confirms that PyCharm is connected to your GitHub account.
 
-9. **Push Changes to GitHub:**
-    - Make changes to your project in PyCharm.
-    - Use the VCS menu to push the changes to your GitHub repository.
+    !!! success "Success"
+        Now you have connected your GitHub account to PyCharm.
 
-10. **Verify Interaction:**
-    - Check the code in your GitHub repository and verify that the changes are updated.
+8. Click the **File** menu, then choose **New Project** from the drop-down menu. Click the **Get from VCS** button in the top right corner.
+
+9. Enter the repository URL, choose directory, and then click **Clone**
+
+    ![Clone from GitHub](assets/connect4.png)
+
+10. Make changes to your project in PyCharm, push the changes to your GitHub repository.
+
+11. Check the code in your GitHub repository and verify that the changes are updated.
 
 
 
