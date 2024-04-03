@@ -33,14 +33,14 @@ This document assumes the following:
 
 This document assumes the following softwares are installed:
 
-- Git: The Git version control system should be installed and accessible via Terminal.
-- Python: The Python programming language, either Python2 or Python3 should be installed with the correct path set up in your system's environment.
+- [Git](https://git-scm.com/): The Git version control system should be installed and accessible via Terminal.
+- [Python](https://git-scm.com/): The Python programming language, either Python2 or Python3 should be installed with the correct path set up in your system's environment.
 
 ## Procedure Overview
 
-- **[Github Setup](githubSetup)**
-- **[PyCharm Installation](pycharmInstallation)**
-- **[Connect PyCharm to Github](connectPycharmToGithub)**
+- [Github Setup](githubSetup)
+- [PyCharm Installation](pycharmInstallation)
+- [Connect PyCharm to Github](connectPycharmToGithub)
 
 
 ## Notes and Warning Messages

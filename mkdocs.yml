@@ -1,4 +1,4 @@
-site_name: COMM Docs
+site_name: PyCharm User Guide
 nav:
   - Home: "index.md"
   - GitHub Setup: "githubSetup.md"
@@ -6,7 +6,6 @@ nav:
   - Connect Pycharm to GitHub: "connectPycharmToGithub.md"
   - Troubleshooting: "troubleshooting.md"
   - Glossary: "glossary.md"
-  - Test: "template.md"
 
 theme: 
   name: material
@@ -75,7 +74,7 @@ extra_javascript:
 markdown_extensions:
   - toc:
       toc_depth: 3
-      title: "TABLE OF CONTENT"
+      title: "TABLE OF CONTENTS"
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
