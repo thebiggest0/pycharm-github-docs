@@ -1,8 +1,5 @@
 # Introduction
 
-Why new cst student need to know how to do this, importance/ purpose and why need to do this 
-For more information see website for details.
-
 Welcome term 1 CST students this document will guide you through setting up your PyCharm and Github. 
 
 **PyCharm**: An Integrated Development Environment (IDE) for Python (your first programming language learned in CST) used in your COMP 1510 Procedural Programming course. It enhances developer productivity through automation, offering intelligent code assistance and tools for error checking, project navigation, and refactoring​​. For more details see PyCharm's [official page](https://www.jetbrains.com/pycharm/learn/).
