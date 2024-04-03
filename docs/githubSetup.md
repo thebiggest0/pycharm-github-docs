@@ -4,60 +4,51 @@ This section will guide you through creating a GitHub account, which is necessar
 
 ## Steps for creating a GitHub account
 
-1. **Open GitHub Website:**
-    - Open your web browser and navigate to the GitHub website: [https://github.com/](https://github.com/)
+1. Open your web browser and navigate to the GitHub website: [https://github.com/](https://github.com/).
     
-2. **Click "Sign Up":**
-    - Click on the "Sign Up" button in the top right corner.
+2. Click on the **Sign Up** button in the top right corner.
 
     ![Sign Up](assets/gh1.png)
 
-    - You will be directed to a sign-up page where you need to enter your information.
+    You will be directed to a sign-up page where you need to enter your information.
 
-3. **Enter Information:**
-    - Enter your email, password, and username, then click the Continue button to proceed.
+3.  Enter your email, password, and username, then click the **Continue** button to proceed.
 
     ![Enter Info](assets/gh2.png)
 
-    !!! info "Password"
-        - Use your BCIT email for a free student plan.
-        - Remember your password.
+    !!! info "Email"
+        Use your BCIT email for a free student plan.
         
-4. **Select Email Preferences:**
-    - Select your Email preferences, then click Continue again.
+4. Select your Email preferences, then click **Continue** again.
 
     ![Email preferences](assets/gh3.png)
     
-5. **Verify Email:**
-    - Check your inbox for a verification email from GitHub, and click on the link provided to confirm your email address.
-    - You will be redirected back to the GitHub website.
+5. Check your inbox for a verification email from GitHub, and click on the link provided to confirm your email address.
+    
+    You will be redirected back to the GitHub website.
 
-6. **Apply for Student Benefits:**
-    - Scroll down the page.
-    - Click the "Apply for your GitHub student benefits" button.
-    - You will be redirected to another page.
+6. Click the **Apply for your GitHub student benefits** button.
+       
+       ![Student Benefits](assets/gh4.png)
 
-    ![Student Benefits](assets/gh4.png)
+    You will be redirected to another page.
 
-7. **Sign up for Student Developer Pack:**
-    - Click the "Sign up for Student Developer Pack" button.
-    - Choose your academic status as "Student".
+7. Click the **Sign up for Student Developer Pack** button, choose your academic status as Student.
 
     ![Student Pack](assets/gh5.png)
 
-8. **Upload Proof of Your Academic Status:**
-    - Take a picture of your BCIT student card with your webcam.
-    - Click the "Process my application" button.
-    - This process might take a couple of minutes.
+8. **Take a picture** of your BCIT student card with your webcam, Click the **Process my application** button.
 
     ![Academic Status](assets/gh6.png)
 
-9. **Accept Terms of Service:**
-    - Read through GitHub's terms of service and if you agree, click on the checkbox to accept them.
+    This process might take a couple of minutes.
 
-10. **Create Account:**
-    - Click on the "Create account" button.
-    - Now you have a new GitHub account
+9. Read through GitHub's terms of service and if you agree, click on the checkbox to accept them.
+
+10. Click on the **Create account** button.
+
+    !!! success "Success"
+        Now you have a new GitHub account.
 
 ## Conclusion
 
