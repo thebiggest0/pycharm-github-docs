@@ -12,7 +12,7 @@ This section will guide you through the process of creating a JetBrains account 
 
 3. Open your email inbox and find the email from JetBrains, click on the link to confirm your account.
 
-    The link should redirect you back to PyCharm's website for account setup.
+    The link should redirect you back to the PyCharm website for account setup.
 
 4. Enter your personal information and set your password, then click **Submit**.
 
@@ -28,14 +28,14 @@ This section will guide you through the process of creating a JetBrains account 
 
 8. Open your email inbox and look for the License Certificate email from JetBrains, then click the "link your free license" to finish student account setup.
 
-9. Login your PyCharm and open the account page, then click the Download dropdown under "JetBrains Product Pack for Students" and select PyCharm and click download.
+9. Log in to your PyCharm and open the account page, then click the Download menu under "JetBrains Product Pack for Students" and select PyCharm and click download.
 
     ![Download PyCharm](assets/pyCharm7.png)
     !!! Info
         For the download client make sure to select MAC and the correct chip for your computer.
     Follow the instructions in the email to download and install the JetBrains software using your license.
 
-10. Open the pycharmPY.exe that was downloaded and follow its Setup instructions.
+10. Open the downloaded PyCharm installer and follow its Setup instructions.
     
     ![PyCharm Setup](assets/pyCharm10.png)
 

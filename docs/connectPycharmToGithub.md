@@ -4,11 +4,11 @@ This section will guide you through the process of connecting PyCharm to your Gi
 
 ## Steps for Connecting GitHub with PyCharm
 
-1. Go to github.com and log in to your account, then navigate to Personal Access Tokens by clicking on your profile picture in the top-right corner, selecting **Settings** from the dropdown menu, navigating to **Developer Settings** in the left sidebar, click on **Personal access tokens**, and then click **Tokens(classic)**.
+1. Go to github.com and log in to your account, then navigate to Personal Access Tokens by clicking on your profile picture in the top-right corner, selecting **Settings** from the dropdown menu, select **Developer Settings** in the left sidebar, click on **Personal access tokens**, and then click **Tokens(classic)**.
 
     ![Token Setting](assets/connect1.png)
 
-2. Click on the **Generate new token** button, choose the scopes or permissions needed for the token, and then click on **Generate token**.
+2. Click on the **Generate new token** button, select the scopes (permissions) needed for the token, and then click on **Generate token**.
 
     !!! warning "GitHub Token"
         Save your token now because it will be shown only once.
@@ -20,7 +20,7 @@ This section will guide you through the process of connecting PyCharm to your Gi
 
 4. Click the **File** menu, then click **Settings**.
 
-5. In the Preferences window, locate the search bar in the upper left-hand corner, enter GitHub into the search bar.
+5. In the Preferences window, locate the search bar in the top left corner, enter GitHub into the search bar.
 
     ![PyCharmSetting](assets/connect2.png)
 
@@ -53,7 +53,7 @@ By the end of this section, you will have successfully learned the following:
 
 :material-check: How to connect PyCharm to your GitHub account
 
-:material-check: How to clone repository from GitHub to your PyCharm
+:material-check: How to clone a repository from GitHub to your PyCharm
 
 :material-check: How to push changes to your GitHub repo
 
