@@ -2,9 +2,9 @@
 
 Welcome, term 1 CST students! This document will guide you through setting up your PyCharm and Github. 
 
-**PyCharm**: An Integrated Development Environment (IDE) for Python (your first programming language learned in CST) used in your COMP 1510 Procedural Programming course. It enhances developer productivity through automation, offering intelligent code assistance and tools for error checking, project navigation, and refactoring​​. For more details see PyCharm's [official page](https://www.jetbrains.com/pycharm/learn/).
+**PyCharm**: An Integrated Development Environment (IDE) for Python (your first programming language learned in CST) used in your COMP 1510 Procedural Programming course. It enhances developer productivity through automation, offering intelligent code assistance and tools for error checking, project navigation, and refactoring. For more information about PyCharm's features, see its [official website](https://www.jetbrains.com/pycharm/learn/).
 
-**Github**: A platform for version control and collaboration which will be used in all your Programming courses. It allows multiple people to work together on projects from anywhere in the world. For more details see GitHub's [official page](https://github.com/about).
+**Github**: A platform for version control and collaboration, GitHub, will be used in all your Programming courses. It allows multiple people to work together on projects from anywhere in the world. Learn more about GitHub's features on their [official website](https://github.com/about).
 
 ## Intended Users
 
@@ -34,7 +34,7 @@ This document assumes the following:
 This document assumes the following softwares are installed:
 
 - [Git](https://git-scm.com/): The Git version control system should be installed and accessible via Terminal.
-- [Python](https://git-scm.com/): The Python programming language, either Python2 or Python3 should be installed with the correct path set up in your system's environment.
+- [Python](https://www.python.org/): The Python programming language (Python 3) should be installed with the correct path set up in your system's environment.
 
 ## Procedure Overview
 
@@ -45,13 +45,13 @@ This document assumes the following softwares are installed:
 
 ## Documentation Conventions
 
-- Bold: Text in bold Signifies a clickable button.
+- Bold: Text in **bold** Signifies a clickable button.
 
-- Quotations: Text enclosed in quotations signifies an embedded link.
+- Quotations: Text enclosed in "quotations" signifies an embedded link.
 
-- Admonitions: Color coded message containers for various types of information.
+- Admonitions: Color-coded message containers provide important information.
 !!! Danger
-    Highlights critical information that could potentially lead to security breaches if not followed.
+    Highlights critical security risks if not followed.
 !!! Warning
     Outlines information to be understood before moving forward.
 !!! Info
