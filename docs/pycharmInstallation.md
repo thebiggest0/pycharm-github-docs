@@ -1,5 +1,3 @@
-## Overview
-
 This section will guide you through the process of creating a JetBrains account and applying for a free student or teacher license, which is necessary for accessing PyCharm.
 
 ## Steps for Creating a JetBrains Account and Installing PyCharm
@@ -52,6 +50,6 @@ By the end of this section, you will have successfully learned the following:
 
 :material-check: How to apply for a free student or teacher license
 
-Great job! 😊 You can now enjoy access to PyCharm for your learning and development projects. Go ahead and click on the link below to move on to the next step:
+Great job! 😊 You can now enjoy access to PyCharm for your learning and development projects. Go ahead and click on the link below to move on to the next section:
 
 **[Connect PyCharm to GitHub](connectPycharmToGithub.md)**
