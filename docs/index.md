@@ -8,7 +8,7 @@ Welcome, term 1 CST students! This document will guide you through setting up yo
 
 ## Intended Users
 
-This documentation is for first term CST students using Mac operating system.
+This documentation is for first term CST students using a Mac operating system.
 
 ## Prerequisite Knowledge
 
