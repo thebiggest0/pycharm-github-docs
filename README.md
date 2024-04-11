@@ -1,4 +1,5 @@
 # Overview of Version Control and PyCharm User Guide
+Published link: https://thebiggest0.github.io/pycharm-github-docs/ 
 
 Welcome, first-term CST students! As you begin your exciting journey in the world of programming, this guide is here to assist you with the initial setups of PyCharm and GitHub, which are essential tools for your COMP 1510 Procedural Programming course.
 
