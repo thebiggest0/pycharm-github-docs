@@ -4,7 +4,7 @@ Welcome, term 1 CST students! This guide will show you how to set up PyCharm and
 
 **PyCharm**: An Integrated Development Environment (IDE) for Python (your first programming language learned in CST) used in your COMP 1510 Procedural Programming course. It enhances developer productivity through automation, offering intelligent code assistance and tools for error checking, project navigation, and refactoring. For more information about PyCharm's features, see its [official website](https://www.jetbrains.com/pycharm/learn/).
 
-**Github**: A platform for version control and collaboration, GitHub, will be used in all your Programming courses. It allows multiple people to work together on projects from anywhere in the world. Learn more about GitHub's features on their [official website](https://github.com/about).
+**GitHub**: A platform for version control and collaboration, GitHub, will be used in all your Programming courses. It allows multiple people to work together on projects from anywhere in the world. Learn more about GitHub's features on their [official website](https://github.com/about).
 
 **Version Control**: A system that records changes to a file or set of files over time so that you can recall specific versions later.
 
@@ -37,9 +37,9 @@ This document assumes the following softwares are installed:
 
 ## Procedure Overview
 
-- [Github Setup](githubSetup)
+- [GitHub Setup](githubSetup)
 - [PyCharm Installation](pycharmInstallation)
-- [Connect PyCharm to Github](connectPycharmToGithub)
+- [Connect PyCharm to GitHub](connectPycharmToGithub)
 
 
 ## Documentation Conventions
