@@ -1,4 +1,4 @@
-site_name: Version Control with PyCharm User Guide
+site_name: Version Control and PyCharm User Guide
 nav:
   - Introduction: "index.md"
   - GitHub Setup: "githubSetup.md"

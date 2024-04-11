@@ -1,26 +1,25 @@
-# Guide to Setting Up PyCharm and GitHub for CST Students
+# Overview of Version Control and PyCharm User Guide
 
 Welcome, first-term CST students! As you begin your exciting journey in the world of programming, this guide is here to assist you with the initial setups of PyCharm and GitHub, which are essential tools for your COMP 1510 Procedural Programming course.
 
 These are the topics of this document:
-* GitHub Setup
-* 
+- GitHub Setup
+- PyCharm Installation
+- Connect PyCharmm to Github
 
 ## How We Collaborated Together
 
-Our collaborative effort in putting together this guide was nothing short of amazing. We harnessed our diverse skills, perspectives, and the unifying power of communication. Through open dialogue, constant feedback, and a shared vision, we've crafted a document that not only instructs but also enlightens.
+This project was a collaborative effort. Building upon our team's experience from previous projects, we leveraged our understanding of individual strengths and communication styles to work effectively. Development occurred on the main branch, with each team member focusing on their assigned areas while actively communicating via Discord to solve problems and share ideas.
 
 ## How We Created Our Guide
 
-This guide is the fruit of our collective learnings and experiences. We dived deep into the features and complexities of PyCharm and GitHub, translating our understanding into straightforward, actionable steps. We balanced technical accuracy with simplicity, ensuring every term 1 CST student can follow along with confidence.
+This guide was created based on official user guides from [PyCharm](https://www.jetbrains.com/help/pycharm/quick-start-guide.html) and [GitHub](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account). We summarized key information and included solutions to common difficulties we faced during PyCharm and GitHub setup, aiming to make the process smoother for others.
+
+This was our first time using Markdown to create content for a website. We built the website using Visual Studio Code (VS Code) as our IDE and employed MkDocs as our static site generator. MkDocs's built-in functionality simplified the process, allowing us to focus on developing quality content rather than website styling.
 
 ## What We Learned
 
-The process taught us the power of clarity and the importance of user-centric documentation. We learned to present technical information in an approachable manner, considering the varying levels of expertise that our peers might bring to the table.
-
-## Conclusion
-
-In conclusion, this guide stands as a testament to our dedication to supporting each other through the initial phases of our coding adventures. It's a resource built on the principles of knowledge-sharing and community. May it serve as a steady beacon, guiding you towards a successful setup and an inspiring learning experience.
+This project taught us the importance of audience focus. We learned to present technical information by breaking down complex procedures to individual steps. 
 
 ## Intended Users
 
@@ -36,6 +35,7 @@ Before starting, you should have:
 - Basic computing skills for application management.
 - Internet navigation skills for research and operations.
 - Email management skills for account handling.
+
 
 ## Hardware Requirements
 
@@ -53,18 +53,16 @@ Ensure you have:
 - [Git](https://git-scm.com/): Version control accessible via Terminal.
 - [Python](https://www.python.org/): Python 3 installed with the correct system path.
 
-## Procedure Overview
-
-- [GitHub Setup](githubSetup)
-- [PyCharm Installation](pycharmInstallation)
-- [Connecting PyCharm to GitHub](connectPycharmToGithub)
-
 ## Documentation Conventions
 
 - **Bold**: Indicates buttons or actionable items.
 - "Quotations": Denote links or embedded URLs.
 - Admonitions: Color-coded notes for different purposes:
-  - !!! Danger: Security risk warnings.
-  - !!! Warning: Precautionary instructions.
-  - !!! Info: Supplementary details.
-  - !!! Success: Confirmation of successful steps.
+  - Danger: Security risk warnings.
+  - Warning: Precautionary instructions.
+  - Info: Supplementary details.
+  - Success: Confirmation of successful steps.
+
+## Conclusion
+
+By following the steps outlined in this guide, you'll have successfully installed PyCharm and GitHub. Remember, version control and effective collaboration are crucial skills for software development. Feel free to refer back to this guide as needed, and don't hesitate to seek help from instructors or peers if you encounter any challenges. Best of luck in your journey in CST!
