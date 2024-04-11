@@ -13,3 +13,7 @@ h2 {
     /* font-weight: 500 !important; */
     /* margin-bottom: 105px !important; */
 }
+
+ol li {
+    margin-bottom: 28px !important;
+}
