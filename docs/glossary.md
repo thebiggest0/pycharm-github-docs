@@ -14,5 +14,6 @@
 |Python| A high-level, interpreted, and general-purpose programming language that is widely used for web development, data analysis, artificial intelligence, and scientific computing.|
 |RAM| Random Access Memory, a form of computer memory that can be read and changed in any order, typically used to store working data and machine code.
 |SSD|Solid-State Drive, a type of mass storage device similar to a hard disk drive (HDD). It supports reading and writing data and maintains stored data in a permanent state even without power.|
+|Terminal|A text-based interface used to interact with a computer system through commands.|
 |Version Control|A system that records changes to a file or set of files over time so that you can recall specific versions later.|
 |VCS| Version System Control, system that records changes to a file or set of files over time so that you can recall specific versions later.|

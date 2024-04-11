@@ -1,5 +1,3 @@
-## Overview
-
 This section will guide you through the process of connecting PyCharm to your GitHub account, enabling seamless interaction with GitHub repositories directly from the PyCharm IDE.
 
 ## Steps for Connecting GitHub with PyCharm
