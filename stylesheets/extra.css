@@ -1,0 +1,19 @@
+.md-nav__title {
+    overflow: unset;
+    margin-bottom: 15px !important;
+}
+
+h1 {
+    /* color: #00b4e6 !important; */
+}
+
+h2 {
+    /* color: #007966; */
+    /* color: #0088af; */
+    /* font-weight: 500 !important; */
+    /* margin-bottom: 105px !important; */
+}
+
+ol li {
+    margin-bottom: 28px !important;
+}
